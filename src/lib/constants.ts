@@ -6,6 +6,7 @@ export const SITE_URL = "https://flowforgeai.dev";
 export const NAV_LINKS = [
   { label: "Home", href: "/" },
   { label: "Services", href: "/services" },
+  { label: "Pricing", href: "/pricing" },
   { label: "About", href: "/about" },
   { label: "Blog", href: "/blog" },
 ] as const;
